@@ -1,0 +1,19 @@
+body {
+    margin-top: 70px;
+}
+
+header, main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#turnOn {
+    width: 80px;
+    background-color: rgb(150, 212, 150);
+}
+
+#turnOff {
+    width: 80px;
+    background-color: rgb(236, 131, 131);
+}
